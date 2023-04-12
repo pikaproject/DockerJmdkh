@@ -3,7 +3,6 @@ google-api-python-client
 progress
 progressbar2
 httplib2shim
-google_auth_oauthlib
 pyrogram>=2
 aiohttp
 aiofiles
@@ -14,8 +13,10 @@ aria2p
 asyncio
 beautifulsoup4
 bencoding
+cfscrape
 cloudscraper
 dnspython
+fake-headers
 feedparser
 flask
 gevent
@@ -24,6 +25,7 @@ google-auth-httplib2
 google-auth-oauthlib
 gunicorn
 git+https://github.com/zevtyardt/lk21.git
+heroku3
 httpx
 lxml
 motor
